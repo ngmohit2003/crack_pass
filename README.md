@@ -1,3 +1,4 @@
+HEAD
 # 🔐 Password Cracker (Educational Use Only)
 
 ## 📌 Description
@@ -21,3 +22,5 @@ For ethical use only — designed for learning, CTF, pentesting labs, or passwor
 ## ✅ Sample Run
 ```bash
 python3 password_cracker.py 0192023a7bbd73250516f069df18b500 passwords.txt
+# crack_pass
+ 909c321b836f145f149ed6cd79cff2ba9e6e469d
